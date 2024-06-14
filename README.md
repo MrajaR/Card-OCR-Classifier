@@ -15,7 +15,7 @@ A comprehensive machine learning project designed to classify and OCR KTP, KIS, 
 
 ### Prerequisites
 
-- Python 3.9
+- Python 3.8
 - TensorFlow
 - EasyOCR
 - Flask
