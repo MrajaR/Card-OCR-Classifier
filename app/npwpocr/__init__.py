@@ -1,0 +1,1 @@
+from npwpocr.extractor import NPWPOCR

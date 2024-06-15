@@ -1,0 +1,1 @@
+from ktpocr.exractor import KTPOCR

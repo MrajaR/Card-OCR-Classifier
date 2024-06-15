@@ -1,0 +1,1 @@
+from bpjsocr.extractor import BPJSOCR
